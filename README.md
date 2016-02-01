@@ -6,5 +6,6 @@
 	* Click on the project, and select Run As -> Java Application
 	* Select the weka.gui Main class
 
-|[![alt text](add-jar.jpg)](add-jar.jpg)|
+[![alt text](add-jar.png)](add-jar.png)
+
 
