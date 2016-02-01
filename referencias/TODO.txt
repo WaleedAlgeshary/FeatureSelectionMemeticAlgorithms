@@ -1,0 +1,15 @@
+Objetivo: Implementar um seletor de características usando jMetal p/ desenvolver os algoritmos de otimização e Weka como interface de controle.
+
+Passos: 
+
+. Otimizar alguma coisa com jMetal usando GA.
+. Implementar o LocalSearch com ADDs e DELs.
+. Implementar o seletor de características com jMetal.
+. Embutir um seletor de características no WEKA. 
+. Implementar o Pray/Predator (ZumbiSearch).
+. Baixar bases de dados p/ comparação.
+. Ver como embutí-las no weka (ou como rodar separadamente).
+. Inovações.
+. Preparar seminário.
+
+
