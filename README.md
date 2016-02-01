@@ -6,5 +6,5 @@
 	* Click on the project, and select Run As -> Java Application
 	* Select the weka.gui Main class
 
-|![How to add a jar file to an Eclipse project](add-jar.jpg)|
+|[![alt text](add-jar.jpg)](add-jar.jpg)|
 
