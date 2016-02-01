@@ -1,10 +1,10 @@
  <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>SistemasInteligentes</groupId>
-  <artifactId>SistemasInteligentesFeatureSelection</artifactId>
+  <groupId>FeatureSelectionMemeticAlgorithms</groupId>
+  <artifactId>FeatureSelectionMemeticAlgorithms</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>SistemasInteligentesFeatureSelection</name>
-  <description>Sistemas Inteligentes Feature Selection</description>
+  <name>FeatureSelectionMemeticAlgorithms</name>
+  <description>FeatureSelectionMemeticAlgorithms</description>
   
     <build>
     <sourceDirectory>src</sourceDirectory>
@@ -45,6 +45,5 @@
 		<artifactId>jmetal-algorithm</artifactId>
 		<version>5.0</version>
 	</dependency>
-  </dependencies>
-  
+  </dependencies> 
 </project>
